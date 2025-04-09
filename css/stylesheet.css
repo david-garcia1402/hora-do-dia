@@ -45,4 +45,8 @@ body {
     border-radius: 50%;
     border: 1px solid black;
     height: 350px;
+    width: 350px; /* Adicione isso, se ainda não existir */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
