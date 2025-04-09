@@ -1,0 +1,46 @@
+body {
+    background-color: #ffcb63
+}
+
+.container {
+    border: 2px solid rgb(75 70 74);
+    border-radius: 0.5em;
+    font: 1.2em sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 90vh; /* ajuste conforme necessário */
+}
+
+.title {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+
+.card-principal {
+    background-color: #f6fad9;
+    border: 2px solid rgb(95 97 110);
+    border-radius: 0.2em;
+    padding: 20px;
+    margin: 20px 0px 25px 0px;
+    width: 20em;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 3em;
+}
+
+.nowTime {
+    border: 1px solid black;
+    height: 2.5rem;
+    margin-bottom: 10%;
+}
+
+.circleImg {
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 350px;
+}
