@@ -1,7 +1,7 @@
 # Hora do dia 🌞
 Script e HTML básico para criação de 'Horas do dia'
 
-![image](https://github.com/user-attachments/assets/78683f66-736d-47b8-8e15-963dab020dd6)
+![image](https://github.com/user-attachments/assets/413c0598-4184-4496-abce-ba3e869ba44f)
 
 # Acessar projeto
 - Dê um git clone do projeto
